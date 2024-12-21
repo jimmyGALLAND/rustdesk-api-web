@@ -111,10 +111,10 @@
   "One" : "Couleur"
   },
   "CreatedAt" : {
-  "One" : "Créé à"
+  "One" : "Créé le"
   },
   "UpdatedAt" : {
-  "One" : "Mis à jour à"
+  "One" : "Mis à jour le"
   },
   "Memory" : {
   "One" : "Mémoire"
@@ -150,7 +150,7 @@
   "One": "Nickname"
   },
   "UserTags": {
-  "One": "Tags utilisateur"
+  "One": "Etiquettes utilisateur"
   },
   "UserAddressBook": {
   "One": "Carnet d'adresses utilisateur"
@@ -188,8 +188,11 @@
   "ConfirmOauth": {
   "One": "Confirmer Oauth"
   },
+  "View": {
+    "One": "Informations"
+  },
   "Device": {
-  "One": "Appareil"
+    "One": "Appareil"
   },
   "ChangeLang": {
   "One": "Changer la langue"
@@ -207,7 +210,7 @@
   "One": "Système"
   },
   "PeerManage": {
-  "One": "Peers"
+  "One": "Appareils"
   },
   "AddressBookManage": {
   "One": "Carnets d'adresses"
@@ -448,6 +451,9 @@
   "UserToken": {
   "One": "Jeton Utilisateur"
   },
+  "MyPeer": {
+    "One": "Mon appareil"
+  },
   "BatchAddToAB": {
   "One": "Ajout par lots au carnet d'adresses"
   },
@@ -461,7 +467,7 @@
   "One": "Enregistrement des partages"
   },
   "Second": {
-  "One": "Second"
+  "One": "Seconde"
   },
   "Captcha": {
   "One": "Captcha"

@@ -14,7 +14,7 @@ const langs = {
   'fr': { name: 'Français', value: fr, sideBarWidth: '280px' },
   'ko': { name: '한국어', value: ko, sideBarWidth: '230px' },
   'ru': { name: 'русский', value: ru, sideBarWidth: '250px' },
-  'es': { name: 'español', value: es, sideBarWidth: '280px' }
+  'es': { name: 'español', value: es, sideBarWidth: '280px' },
 }
 const defaultLang = localStorage.getItem('lang') || navigator.language || 'zh-CN'
 export const useAppStore = defineStore({
